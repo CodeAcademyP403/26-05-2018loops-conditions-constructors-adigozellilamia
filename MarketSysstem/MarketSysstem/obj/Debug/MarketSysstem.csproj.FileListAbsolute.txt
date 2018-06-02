@@ -1,0 +1,10 @@
+c:\users\lamiye adigozelli\source\repos\MarketSysstem\MarketSysstem\bin\Debug\MarketSysstem.exe.config
+c:\users\lamiye adigozelli\source\repos\MarketSysstem\MarketSysstem\bin\Debug\MarketSysstem.exe
+c:\users\lamiye adigozelli\source\repos\MarketSysstem\MarketSysstem\bin\Debug\MarketSysstem.pdb
+c:\users\lamiye adigozelli\source\repos\MarketSysstem\MarketSysstem\obj\Debug\MarketSysstem.csprojAssemblyReference.cache
+c:\users\lamiye adigozelli\source\repos\MarketSysstem\MarketSysstem\obj\Debug\MarketSysstem.Frm_market.resources
+c:\users\lamiye adigozelli\source\repos\MarketSysstem\MarketSysstem\obj\Debug\MarketSysstem.Properties.Resources.resources
+c:\users\lamiye adigozelli\source\repos\MarketSysstem\MarketSysstem\obj\Debug\MarketSysstem.csproj.GenerateResource.cache
+c:\users\lamiye adigozelli\source\repos\MarketSysstem\MarketSysstem\obj\Debug\MarketSysstem.csproj.CoreCompileInputs.cache
+c:\users\lamiye adigozelli\source\repos\MarketSysstem\MarketSysstem\obj\Debug\MarketSysstem.exe
+c:\users\lamiye adigozelli\source\repos\MarketSysstem\MarketSysstem\obj\Debug\MarketSysstem.pdb
